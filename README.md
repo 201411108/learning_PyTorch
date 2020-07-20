@@ -2,7 +2,7 @@
 PyTorch로 딥러닝 배우기
 
 ## 목차
-[1장](https://github.com/201411108/learning_PyTorch/src/01/README.md)
+[1장 딥러닝과 파이토치](https://github.com/201411108/learning_PyTorch/tree/master/src/01)
 
 ## 교재 정보
 
