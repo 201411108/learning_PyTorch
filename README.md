@@ -12,7 +12,7 @@ PyTorch로 딥러닝 배우기
 ## 실습 환경
 
 ### 주피터 노트북
-![jupyter notebook](./assets/jupyter_notebook)
+![jupyter notebook](./assets/jupyter_notebook.png)
 
 ### 버전 정보
 ```
