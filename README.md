@@ -8,6 +8,8 @@ PyTorch로 딥러닝 배우기
 
 [3장 파이토치로 구현하는 ANN](https://github.com/201411108/learning_PyTorch/tree/master/src/03)
 
+[4장 패션 아이템을 구분하는 DNN](https://github.com/201411108/learning_PyTorch/tree/master/src/04)
+
 ## 교재 정보
 
 ![책 모습](./assets/book_cover.png)
