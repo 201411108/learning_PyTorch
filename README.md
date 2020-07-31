@@ -14,6 +14,8 @@ PyTorch로 딥러닝 배우기
 
 6. [6장 사람의 지도 없이 학습하는 오토인코더](https://github.com/201411108/learning_PyTorch/tree/master/src/06)
 
+7. [8장 딥러닝을 해킹하는 적대적 공격](https://github.com/201411108/learning_PyTorch/tree/master/src/08)
+
 ## 교재 정보
 
 ![책 모습](./assets/book_cover.png)
