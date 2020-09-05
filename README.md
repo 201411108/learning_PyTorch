@@ -16,6 +16,8 @@ PyTorch로 딥러닝 배우기
 
 7. [8장 딥러닝을 해킹하는 적대적 공격](https://github.com/201411108/learning_PyTorch/tree/master/src/08)
 
+8. [9장 경쟁하며 학습하는 GAN](https://github.com/201411108/learning_PyTorch/tree/master/src/09)
+
 ## 교재 정보
 
 ![책 모습](./assets/book_cover.png)
